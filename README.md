@@ -522,7 +522,7 @@ _Changes_
 - Nexa mining will now allocate memory for each GPU sequentially and delay later cards startup slightly to help systems with small virtual memory.
 
 
-### lolMiner 1.68
+### lolMiner 1.68 
   
  _Changes_
 - Significantly improved Nexa mining performance on supported GPUs (e.g. up to  +25% on 8G Ampere GPUs)
